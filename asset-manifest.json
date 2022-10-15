@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-project-task-2/static/css/main.2fc5524c.css",
+    "main.js": "/practice-project-task-2/static/js/main.14444bf8.js",
+    "index.html": "/practice-project-task-2/index.html",
+    "main.2fc5524c.css.map": "/practice-project-task-2/static/css/main.2fc5524c.css.map",
+    "main.14444bf8.js.map": "/practice-project-task-2/static/js/main.14444bf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fc5524c.css",
+    "static/js/main.14444bf8.js"
+  ]
+}
